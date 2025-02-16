@@ -14,7 +14,7 @@ Memory: 32GB
 
 Necessary Libraries: numpy, opencv-python (cv2), scikit-learn
 
-Ensure that the appropriate training and testing datasets are present in the specified paths, and set up the saving paths correctly. 
+Ensure that the appropriate training and testing datasets are present in the specified paths, and set up the saving paths correctly.   
 Detailed usage instructions are provided in the comments within the relevant sections of the code.
 
 If there are any questions, please contact the author or the principal investigator.
